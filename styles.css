@@ -6,6 +6,7 @@ body{
 table{
     border: 7px solid hsl(235, 20%, 74%);
     color: #000301;
+    width: 700px;
     border-radius: 15px;
     font-size: 18px;
     height: 500px;
@@ -13,6 +14,7 @@ table{
 td{
     border-right: 1px solid hsl(233, 23%, 78%);
     border-top: 2px double #9291e9;
+    text-align: center;
     padding: 12px 5px 5px 10px;
 }
 th{
